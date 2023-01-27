@@ -1,0 +1,17 @@
+/* External CSS */
+body{
+  font-family: 'Courier New', Courier, monospace;  
+  background-color:beige;
+  color: darkgreen;
+}
+img{
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+}
+.outer{
+    border: 1px solid black;
+    padding: 10%;
+    margin: 2%;
+
+}
